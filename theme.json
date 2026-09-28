@@ -1,0 +1,37 @@
+{
+  "name": "Yoriichi Flame Theme",
+  "description": "Custom fiery red animated theme featuring Yoriichi Tsugikuni",
+  "authors": [
+    {
+      "name": "Demon Slayer Theme",
+      "id": "0"
+    }
+  ],
+  "spec": 1,
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#0a0203", "#0a0203"],
+    "BACKGROUND_SECONDARY": ["#140507", "#140507"],
+    "BACKGROUND_SECONDARY_ALT": ["#1c070a", "#1c070a"],
+    "BACKGROUND_TERTIARY": ["#080102", "#080102"],
+    "BACKGROUND_ACCENT": ["#7f1d1d", "#7f1d1d"],
+    "BACKGROUND_FLOATING": ["#140507", "#140507"],
+    "TEXT_NORMAL": ["#fef2f2", "#fef2f2"],
+    "TEXT_MUTED": ["#fca5a5", "#fca5a5"],
+    "TEXT_LINK": ["#ef4444", "#ef4444"],
+    "HEADER_PRIMARY": ["#ffffff", "#ffffff"],
+    "HEADER_SECONDARY": ["#f87171", "#f87171"],
+    "INTERACTIVE_NORMAL": ["#fca5a5", "#fca5a5"],
+    "INTERACTIVE_HOVER": ["#ef4444", "#ef4444"],
+    "INTERACTIVE_ACTIVE": ["#dc2626", "#dc2626"],
+    "INTERACTIVE_MUTED": ["#7f1d1d", "#7f1d1d"]
+  },
+  "rawColors": {
+    "BRAND_500": "#dc2626",
+    "RED_400": "#ef4444"
+  },
+  "background": {
+    "url": "https://cdn.discordapp.com/attachments/1535222438462357654/1554080169872982116/ezgif-570cd26fd2006a55.gif?ex=6abb9571&is=6aba43f1&hm=cae4629c231f06acc07bc1980dd4a8ca48cedf2a75f08ec4f6122b7c5e5db966&",
+    "blur": 0,
+    "alpha": 0.65
+  }
+}
